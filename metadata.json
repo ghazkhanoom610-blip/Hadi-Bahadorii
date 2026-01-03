@@ -1,0 +1,9 @@
+{
+  "name": "OC Thrive",
+  "description": "A premium local business directory and deals platform for Orange County, CA, featuring a modern California Coastal aesthetic and advanced Gemini AI capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
